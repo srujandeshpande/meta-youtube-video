@@ -1,0 +1,8 @@
+{
+  "name": "meta-youtube-video",
+  "version": "1.0.0",
+  "description": "Video that knows the number of views",
+  "main": "index.js",
+  "author": "Srujan Deshpande srujan.deshpande@gmail.com",
+  "license": "MIT"
+}
