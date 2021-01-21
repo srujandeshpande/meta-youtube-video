@@ -2,7 +2,11 @@
   "name": "meta-youtube-video",
   "version": "1.0.0",
   "description": "Video that knows the number of views",
-  "main": "index.js",
+  "main": "main.js",
   "author": "Srujan Deshpande srujan.deshpande@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "google-auth-library": "^6.1.4",
+    "googleapis": "^67.0.0"
+  }
 }
